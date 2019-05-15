@@ -46,7 +46,10 @@ Eine eindeutige Definition für Microservices gibt es nicht, es gibt nur diverse
 Microservices sind vorallem auch durch ihre Vorteile in einem so grossem Hype. Mit Mircoservices  ist es einfacher einen einzelnen Dienst zu verstehen und auch einfacher diese einzelne Dienste zu testen, zu deployen, zu managen und zu skalieren. Durch die unabhängigkeit kann man Dienste einfacher ändern und es ist auch einfacher, neue Mitarbeiter in ihrem Bereich einzuschulen, da sie nicht von allen Diensten etwas verstehen müssen, sondern eigentlich nur von dem Dienst für welchen sie Verantwortlich sind.
 
 
-**Fazit und Aussicht**, z.B. Die Durcharbeitung von ... gab mir ein besseres Verständnis über die Funktionsweise von Containern.
+Eigentlich wollte ich noch damit beginnen, den Microservice zu erstellen, jedoch gab es Probleme beim starten des Services. Dadurch konnte ich damit leider nicht mehr beginnen.
+
+
+**Fazit und Aussicht**, Was ein Micrsoservice ist habe ich bereits im M300 angeschaut. Jedoch konnte ich noch mehr darüber lernen und habe dies, anders als im M300, nun auch Dokumentiert. 
 
 ## Links
 
