@@ -22,15 +22,15 @@ Kapitel aus E701 wurden in der Gruppe mit .... erarbeitet. Davon sind mindestens
 ## Dokumention des Lern- und Entwicklungsprozesses
 ***
 
-### Kapitel: 702.1 Container Usage (Status: In Arbeit)
+### Kapitel: 701.1 Modern Software Development (Status: In Arbeit)
 
-**Weight**: 7 (7)
+**Weight**: 6 + 4
 
-**Beschreibung** Gegenüberstellung welche Linux Technologien für Container verwendet werden.
+**Beschreibung** Einführung ins Thema "Mircoservices" mit einem zusätzlich selbst erstelltem Microservice.
 
-**Tagesziele**, z.B. Erstellung einer Tabelle Linux - Container. 
+**Tagesziele**, Infos über das Thema sammeln und gelerntes festhalten. Eigenen Microservice erstellen. 
 
-**Vorgehen**, z.B. Studieren Background Linux Namespaces vs. Container, UnionFS vs. Container Layer, Unix Prozesse (Jobs) vs. Docker run/start/stop
+**Vorgehen**,Dokus lesen und Youtube Videos schauen. Microservice mit Vagrant erstellen.
 
 **Beispiele und Arbeitsergebnisse**
 
