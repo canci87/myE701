@@ -35,7 +35,15 @@ Kapitel aus E701 wurden in der Gruppe mit .... erarbeitet. Davon sind mindestens
 **Beispiele und Arbeitsergebnisse**
 
 Microservices werden immer bekannter und auch immer wichtiger. Schon heute werden auf vielen Websiten, welche wir tagtäglich benutzen, Microservices. Bei Amazon zum Beispiel ist der Bestellvorgang, der Zahlungsvorgang, die Vorschläge, usw... alles ein einzelner Microservice.
-Eine eindeutige Definition für Microservices gibt es nicht, es gibt nur diverse Merkmale, welche einen Microservice ausmacht.
+Eine eindeutige Definition für Microservices gibt es nicht, es gibt nur diverse Merkmale, welche einen Microservice ausmacht. Diese wären zum Beispiel:
+* Applikation mit einer Reihe von kleinen Diensten
+* Jeder Dienst arbeitet als unabhängiger Prozess
+* Kommunikation findet über offene, standardisierte Ports staht (HTTP/Messages)
+* Jeder Service wird einzeln deployed, skaliert und überwacht
+* Dienste umfassen fachliche Anforderung
+* Dienste sind unabhängig, austauschbar und eineln upgradefähig
+
+
 **Fazit und Aussicht**, z.B. Die Durcharbeitung von ... gab mir ein besseres Verständnis über die Funktionsweise von Containern.
 
 ## Links
