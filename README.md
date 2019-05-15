@@ -34,10 +34,8 @@ Kapitel aus E701 wurden in der Gruppe mit .... erarbeitet. Davon sind mindestens
 
 **Beispiele und Arbeitsergebnisse**
 
-*Microservice
-
-Eindfs
-
+Microservices werden immer bekannter und auch immer wichtiger. Schon heute werden auf vielen Websiten, welche wir tagtäglich benutzen, Microservices. Bei Amazon zum Beispiel ist der Bestellvorgang, der Zahlungsvorgang, die Vorschläge, usw... alles ein einzelner Microservice.
+Eine eindeutige Definition für Microservices gibt es nicht, es gibt nur diverse Merkmale, welche einen Microservice ausmacht.
 **Fazit und Aussicht**, z.B. Die Durcharbeitung von ... gab mir ein besseres Verständnis über die Funktionsweise von Containern.
 
 ## Links
