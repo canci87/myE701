@@ -28,17 +28,15 @@ Kapitel aus E701 wurden in der Gruppe mit .... erarbeitet. Davon sind mindestens
 
 **Beschreibung** Einführung ins Thema "Mircoservices" mit einem zusätzlich selbst erstelltem Microservice.
 
-**Tagesziele**, Infos über das Thema sammeln und gelerntes festhalten. Eigenen Microservice erstellen. 
+**Tagesziele**, Infos über das Thema sammeln und gelerntes festhalten. Beginnen einen eigenen Microservice zu erstellen. 
 
 **Vorgehen**,Dokus lesen und Youtube Videos schauen. Microservice mit Vagrant erstellen.
 
 **Beispiele und Arbeitsergebnisse**
 
-| Linux          | Container      | Beschreibung      |
-| -------------- | -------------- | ----------------- |
-| Namespaces     | laufender Container | beim Starten des Containers wird in eine andere Linux Namespace gewechselt |
-| UnionFS        | Image Layer         | Container Verwenden UnionFileSysteme um .... |
-| Unix Prozesse  | run/start/stop      | docker run/start/stop Befehle ähneln dem .... Subsystem |
+*Microservice
+
+Eindfs
 
 **Fazit und Aussicht**, z.B. Die Durcharbeitung von ... gab mir ein besseres Verständnis über die Funktionsweise von Containern.
 
