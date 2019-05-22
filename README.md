@@ -44,6 +44,9 @@ Eine eindeutige Definition für Microservices gibt es nicht, es gibt nur diverse
 * Dienste sind unabhängig, austauschbar und eineln upgradefähig
 
 Microservices sind vorallem auch durch ihre Vorteile in einem so grossem Hype. Mit Mircoservices  ist es einfacher einen einzelnen Dienst zu verstehen und auch einfacher diese einzelne Dienste zu testen, zu deployen, zu managen und zu skalieren. Durch die unabhängigkeit kann man Dienste einfacher ändern und es ist auch einfacher, neue Mitarbeiter in ihrem Bereich einzuschulen, da sie nicht von allen Diensten etwas verstehen müssen, sondern eigentlich nur von dem Dienst für welchen sie Verantwortlich sind.
+
+Der Code sieht folgendermassen aus:
+
   <br>`docker run -dit --name apache -p 8080:80 -v c:\temp\apache\:/usr/local/apache2/htdocs/ httpd:2.4`
 
 
