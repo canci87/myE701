@@ -68,7 +68,13 @@ Getestet habe ich die funktionalität in dem ich mich über "localhost:8080" auf
 
 **Beispiele und Arbeitsergebnisse**
 
+Ein Source Code Management (SCM) ist ein Software tool welches von Softwareentwicklern benutzt wird, um Versionen eines Codes zu speichern. SCMs werden gebraucht, um Versionen einem Programm zu geben. Jede Version wird mit einem Zeitstempel versehen und es wird hinterlegt, welche Person verantwortlich für die Änderungen war.
 
+Mit SCM kann man einfacher im Team arbeiten und seinen Code auch so isolieren, dass die Änderungen für andere Teammitglieder erst sichtbar sind, wenn der Code bereit ist.
+
+Auch das troubleshooten wird einfacher, da man weiss wer die Änderungen gemacht hat und vorallem was die Änderungen waren.
+
+Der bekannteste SCM momentan ist GitHub.
 ## Links
 
 * [Exam 701: DevOps Tools Engineer](https://www.lpi.org/our-certifications/exam-701-objectives) 
