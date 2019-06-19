@@ -56,11 +56,11 @@ Getestet habe ich die funktionalität in dem ich mich über "localhost:8080" auf
 **Fazit und Aussicht**, Was ein Micrsoservice ist habe ich bereits im M300 angeschaut. Jedoch konnte ich noch mehr darüber lernen und habe dies, anders als im M300, nun auch Dokumentiert. 
 
 
-### Kapitel: 701.3 Source Code Management (Status: In Arbeit)
+### Kapitel: 701.3 Source Code Management (Status: Abgeschlossen)
 
 **Weight**: 5
 
-**Beschreibung** Einführung ins Thema "Mircoservices" mit einem zusätzlich selbst erstelltem Microservice.
+**Beschreibung** Einführung ins Thema Source Code Management mit beispielen von bekannten Managern
 
 **Tagesziele**, Dokumentation über Thema schreiben 
 
@@ -75,6 +75,25 @@ Mit SCM kann man einfacher im Team arbeiten und seinen Code auch so isolieren, d
 Auch das troubleshooten wird einfacher, da man weiss wer die Änderungen gemacht hat und vorallem was die Änderungen waren.
 
 Der bekannteste SCM momentan ist GitHub.
+
+
+### Kapitel: 702.1 Container Usage (Status: In Arbeit)
+
+**Weight**: 5
+
+**Beschreibung** Erklärung zum Thema Containern und wie diese erstellt werden. 
+
+**Tagesziele**, Dokumentation über Thema schreiben 
+
+**Vorgehen**,Internet Recherche und unterlagen von Modul 300 benutzen
+
+**Container Architektur**
+Container teilen sich einen Betribessystem Kern mit anderen Containern, und muss daher nicht immer zusätzlich ein OS haben. Jede Anwendung (Container) erählt einen gewissen User space und hat somit eine isloierte Umgebung. 
+Durch das teilen eines OS brauchen Container im Vergleich zu VM's viel weniger Rechenleistung, Hauptspeicher und Speicherplatz. Wo man bei VM's von Gigabytes redet, redet man bei Containern lediglich von Megabytes. Dies führt dazu, dass auf einen Server viel mehr Container als VM's Platz haben. Ein weitere Pluspunkt ist die Geschwindigkeit in welcher ein Container einsatzbereit ist, VM's benötigen teilweise mehrere Minuten und Containern maximal ein paar Sekunden.
+
+![alt text](https://github.com/canci87/myE701/blob/master/content-grafiken-vm-container.jpg "VM vs Container")
+
+**Beispiele und Arbeitsergebnisse**
 ## Links
 
 * [Exam 701: DevOps Tools Engineer](https://www.lpi.org/our-certifications/exam-701-objectives) 
