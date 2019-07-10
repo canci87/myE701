@@ -117,7 +117,7 @@ Mit folgenden Befehl kann ein Image oder ein Repository zu einer Reistry gepusht
 | rmi | löscht ein Image vom lokalen Speicher |
 | build | Erstellt ein Image von einem bestimmten Docker file |
 
-**Beispiele und Arbeitsergebnisse**
+
 ## Links
 
 * [Exam 701: DevOps Tools Engineer](https://www.lpi.org/our-certifications/exam-701-objectives) 
