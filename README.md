@@ -99,7 +99,7 @@ Mit folgenden Befehl kann ein Image oder ein Repository zu einer Reistry gepusht
 
 **Docker Befehle**
 
-|  Befehl | Funktion | 
+|  Befehl, docker... | Funktion | 
 | --- | --- |
 | -version  | Zeigt aktuelle installierte Docker Version an   |
 | pull  | Zieht images aus einem bestimmten Docker Repository  |
