@@ -17,7 +17,7 @@
 | 03.07.19 | Sommersporttage | - |
 |          | Total Punkte | 27 (34) !
 
-Kapitel aus E701 wurden in der Gruppe mit .... erarbeitet. Davon sind mindestens 14 Punkte selbständig erarbeitet worden. 
+Kapitel aus E701 wurden alleine erarbeitet. Davon sind mindestens 14 Punkte selbständig erarbeitet worden. 
 
 ## Dokumention des Lern- und Entwicklungsprozesses
 ***
