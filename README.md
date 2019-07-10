@@ -93,6 +93,29 @@ Durch das teilen eines OS brauchen Container im Vergleich zu VM's viel weniger R
 
 ![alt text](https://github.com/canci87/myE701/blob/master/content-grafiken-vm-container.jpg "VM vs Container")
 
+**Repository Pushen**
+Mit folgenden Befehl kann ein Image oder ein Repository zu einer Reistry gepusht werden.
+<br>`docker push [OPTIONS] NAME[:TAG]`
+
+**Docker Befehle**
+|  Befehl, docker... | Funktion | 
+|---|---|
+| -version  |Zeigt aktuelle installierte Docker Version an   |
+| pull  | Zieht images aus einem bestimmten Docker Repository  |
+| run   | Erstellt Container von einem Image  |
+| ps | Zeigt alle laufenden Container an |
+| ps -a | Zeigt alle Container an |
+| exec | Greift auf laufenden Container zu |
+| stop | Stoppt einen bestimmten Container |
+| kill | Stoppt den Container sofort, die weniger schönere Variante wie "stop" |
+| commit | Erstellt neues Image eines editierten Containers |
+| push | Pusht ein Image/Repository zu einem docker hub repository |
+| login | Zum einloggen auf einem docker hub repository |
+| images | Zeigt alle lokal gespeicherten Images an |
+| rm | löscht einen gestoppten Container |
+| rmi | löscht ein Image vom lokalen Speicher |
+| build | Erstellt ein Image von einem bestimmten Docker file |
+
 **Beispiele und Arbeitsergebnisse**
 ## Links
 
