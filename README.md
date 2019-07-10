@@ -98,7 +98,7 @@ Mit folgenden Befehl kann ein Image oder ein Repository zu einer Reistry gepusht
 <br>`docker push [OPTIONS] NAME[:TAG]`
 
 **Docker Befehle**
-|  Befehl, docker... | Funktion | 
+|  Befehl | Funktion | 
 |---|---|
 | -version  | Zeigt aktuelle installierte Docker Version an   |
 | pull  | Zieht images aus einem bestimmten Docker Repository  |
